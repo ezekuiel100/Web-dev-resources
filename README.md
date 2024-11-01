@@ -53,16 +53,16 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 - [Bro Code - JavaScript Tutorial](https://www.youtube.com/watch?v=lfmg-EJ8gm4)
 - [HuXn WebDev - Advanced JavaScript](https://www.youtube.com/watch?v=H3XIJYEPdus)
 
+#### Udemy
+
+- [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
+
 ### Português
 
 - [CFBCursos - Curso Completo de JavaScript](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T)
 - [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=TkD0QMyBa28&list=PLnDvRpP8BneysKU8KivhnrVaKpILD3gZ6)
 - [FreeCodeCamp - Curso de JavaScript](https://www.youtube.com/watch?v=aA31cVca_hI)
 - [Programação Web](https://www.youtube.com/watch?v=McKNP3g6VBA)
-
-#### Udemy
-
-- [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
 
 ---
 
@@ -74,10 +74,33 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 - [Smoljames - React Full Course](https://www.youtube.com/watch?v=82PXenL4MGg)
 - [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=LDB4uaJ87e0&t=115s)
 
+#### Udemy
+
+- [The Ultimate React Course 2024](https://www.udemy.com/course/the-ultimate-react-course/)
+
 ### Português
 
 - [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2okm-QBojomniQVO)
 
-#### Udemy
+---
 
-- [The Ultimate React Course 2024](https://www.udemy.com/course/the-ultimate-react-course/)
+## Node.js
+
+### English
+
+- [Traversy Media - Node.js Crash Course](https://www.youtube.com/watch?v=32M1al-Y6Ag&)
+- [Sangam Mukherjee - Node.js Tutorial](https://www.youtube.com/watch?v=MIJt9H69QVc&ab_channel=SangamMukherjee)
+
+### Português
+
+- [Rocketseat - Iniciando com Node.js](https://www.youtube.com/watch?v=hHM-hr9q4mo)
+- [Professor Edson Maia - Curso Completo de Node.js](https://www.youtube.com/watch?v=05WeJCU8CJ4&list=PLnex8IkmReXwCyR-cGkyy8tCVAW7fGZow&index=1&ab_channel=ProfessorEdsonMaia)
+
+---
+
+## Next.js
+
+### English
+
+- [Sonny Sangha - Next.js Tutorial](https://www.youtube.com/watch?v=cso7-4oAPNQ&ab_channel=SonnySangha)
+- [JavaScript Mastery - Complete Next.js Guide](https://www.youtube.com/watch?v=Zq5fmkH0T78)
