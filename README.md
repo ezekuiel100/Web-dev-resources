@@ -57,6 +57,13 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 
 - [The Complete JavaScript Course](https://www.udemy.com/course/the-complete-javascript-course/)
 
+#### Websites
+
+- [GeeksforGeeks - JavaScript](https://www.geeksforgeeks.org/javascript/?ref=home-articlecards)
+- [JavaScript.info - The Modern JavaScript Tutorial](https://javascript.info/)
+- [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/default.asp)
+- [MDN Web Docs - JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
 ### Português
 
 - [CFBCursos - Curso Completo de JavaScript](https://www.youtube.com/watch?v=E4DBTqgxHGM&list=PLx4x_zx8csUg_AxxbVWHEyAJ6cBdsYc0T)
