@@ -10,8 +10,10 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
-- [Node](#node.js)
-- [Next](#next.js)
+- [Node.js](#nodejs)
+- [Next.js](#nextjs)
+- [Computer Networking (Redes de Computadores)](#computer-networking-redes-de-computadores)
+- [Data Structures & Algorithms (Estrutura de Dados e Algoritmos)](#data-structures--algorithms-estrutura-de-dados-e-algoritmos)
 
 ---
 
