@@ -10,8 +10,8 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 - [CSS](#css)
 - [JavaScript](#javascript)
 - [React](#react)
-- [Node](#node)
-- [Next](#next)
+- [Node](#node.js)
+- [Next](#next.js)
 
 ---
 
@@ -135,3 +135,25 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 
 - [Sonny Sangha - Next.js Tutorial](https://www.youtube.com/watch?v=cso7-4oAPNQ&ab_channel=SonnySangha)
 - [JavaScript Mastery - Complete Next.js Guide](https://www.youtube.com/watch?v=Zq5fmkH0T78)
+
+---
+
+## Computer Networking (Redes de Computadores)
+
+### English
+
+- [Bogdan Stashchuk - Computer Networking Course](https://www.youtube.com/watch?v=PhjHXeMNpp8)
+- [Kunal Kushwaha - Networking for Beginners](https://www.youtube.com/watch?v=IPvYjXCsTg8&ab_channel=KunalKushwaha)
+
+### Português
+
+- [Fabricio Breve - Curso de Redes de Computadores](https://www.youtube.com/watch?v=4sS1BMeJsEc&list=PLvHXLbw-JSPfKp65psX5C9tyNLHHC4uoR&ab_channel=FabricioBreve)
+- [UNIVESP - Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk)
+
+---
+
+## Data Structures & Algorithms (Estrutura de Dados e Algoritmos)
+
+### English
+
+- [HuXn WebDev - Data Structures & Algorithms](https://www.youtube.com/watch?v=wBtPGnVnA9g&ab_channel=HuXnWebDev)
