@@ -14,6 +14,7 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 - [Next.js](#nextjs)
 - [Computer Networking (Redes de Computadores)](#computer-networking-redes-de-computadores)
 - [Data Structures & Algorithms (Estrutura de Dados e Algoritmos)](#data-structures--algorithms-estrutura-de-dados-e-algoritmos)
+- [Security](#security)
 
 ---
 
@@ -159,3 +160,11 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 ### English
 
 - [HuXn WebDev - Data Structures & Algorithms](https://www.youtube.com/watch?v=wBtPGnVnA9g&ab_channel=HuXnWebDev)
+
+---
+
+## Security
+
+### English
+
+- [Beyond XSS - Understanding Web Security](https://aszx87410.github.io/beyond-xss/en/)
