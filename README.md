@@ -145,10 +145,14 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 
 ### English
 
+#### Youtube
+
 - [Bogdan Stashchuk - Computer Networking Course](https://www.youtube.com/watch?v=PhjHXeMNpp8)
 - [Kunal Kushwaha - Networking for Beginners](https://www.youtube.com/watch?v=IPvYjXCsTg8&ab_channel=KunalKushwaha)
 
 ### Português
+
+#### Youtube
 
 - [Fabricio Breve - Curso de Redes de Computadores](https://www.youtube.com/watch?v=4sS1BMeJsEc&list=PLvHXLbw-JSPfKp65psX5C9tyNLHHC4uoR&ab_channel=FabricioBreve)
 - [UNIVESP - Redes de Computadores](https://www.youtube.com/playlist?list=PLxI8Can9yAHc-_dZ6nsfoon08i2-4OvEk)
@@ -159,6 +163,8 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 
 ### English
 
+#### Youtube
+
 - [HuXn WebDev - Data Structures & Algorithms](https://www.youtube.com/watch?v=wBtPGnVnA9g&ab_channel=HuXnWebDev)
 
 ---
@@ -166,5 +172,7 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 ## Security
 
 ### English
+
+#### Websites
 
 - [Beyond XSS - Understanding Web Security](https://aszx87410.github.io/beyond-xss/en/)
