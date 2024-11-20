@@ -99,6 +99,23 @@ Este repositório reúne links e materiais parapara aprender desenvolvimento web
 - [HuXn WebDev - React Basics](https://www.youtube.com/watch?v=qnwFpjIqsrA)
 - [Smoljames - React Full Course](https://www.youtube.com/watch?v=82PXenL4MGg)
 - [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=LDB4uaJ87e0&t=115s)
+- ## React
+
+### English
+
+- [HuXn WebDev - React Basics](https://www.youtube.com/watch?v=qnwFpjIqsrA)
+- [Smoljames - React Full Course](https://www.youtube.com/watch?v=82PXenL4MGg)
+- [Traversy Media - React Crash Course](https://www.youtube.com/watch?v=LDB4uaJ87e0&t=115s)
+- [freeCodeCamp - React Full Course](https://www.youtube.com/watch?v=x4rFhThSX04)
+
+#### Udemy
+
+- [The Ultimate React Course 2024](https://www.udemy.com/course/the-ultimate-react-course/)
+
+### Português
+
+- [Matheus Battisti - Hora de Codar](https://www.youtube.com/watch?v=FXqX7oof0I4&list=PLnDvRpP8BneyVA0SZ2ok
+
 
 #### Udemy
 
